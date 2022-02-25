@@ -505,7 +505,7 @@ img {
 }
 
 .footer__social:hover i{
-  transform: translateY(-.25rem);
+  transform: translateY(-.2rem);
 }
 
 /* ===== MEDIA QUERIES=====*/
