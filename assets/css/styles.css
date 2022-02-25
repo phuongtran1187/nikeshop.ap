@@ -494,6 +494,7 @@ img {
 .footer__social {
   font-size: 1.5rem;
   margin-right: 1.25rem;
+  transition: 300ms;
 }
 
 .footer__copy {
@@ -501,6 +502,10 @@ img {
   font-size: .813rem;
   color: #8a8a8a;
   text-align: center;
+}
+
+.footer__social:hover i{
+  transform: translateY(-.25rem);
 }
 
 /* ===== MEDIA QUERIES=====*/
